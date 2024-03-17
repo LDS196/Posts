@@ -1,4 +1,4 @@
-## :seedling: <a href="" target="_blank">Posts</a>
+## :seedling: <a href="https://posts-flax-gamma.vercel.app/" target="_blank">Posts</a>
 
 приложение позволяет пользователям создавать, редактировать, удалять, добавлять в избранное, сортировать, фильтровать, посты и другое.
 В качестве API использован сервис JSONPlaceholder - Free Fake REST API (typicode.com)
