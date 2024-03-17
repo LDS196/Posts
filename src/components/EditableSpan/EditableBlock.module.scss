@@ -1,0 +1,18 @@
+.block {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 70%;
+    gap: 15px 0;
+
+    span {
+        display: block;
+    }
+}
+.button {
+    display: flex;
+    align-items: center;
+    gap: 0 50px;
+}
+.favorite {
+    background-color: rgba(212, 212, 212, 0.5);
+}
